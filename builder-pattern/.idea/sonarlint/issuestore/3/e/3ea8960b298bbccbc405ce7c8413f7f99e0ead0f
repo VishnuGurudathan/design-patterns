@@ -1,0 +1,14 @@
+
+fsquid:S1192
+"ODefine a constant instead of duplicating this literal "+91 9876543210" 3 times.(ØµÇ«
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(©üÃõüÿÿÿÿ
+Csquid:S1602",Remove useless curly braces around statement(‡ç™Æ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢ý’·
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(©üÃõüÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(™½Ìƒüÿÿÿÿ
