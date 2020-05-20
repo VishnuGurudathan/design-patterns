@@ -1,7 +1,7 @@
 
-nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(é¥ùøþÿÿÿÿ8íí‡µ¡.
+qsquid:S2975#"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ÿê¯Û8ø·ô´¡.
 isquid:CommentedOutCodeLine
 "<This block of commented-out lines of code should be removed.(©Íæ¥8ÈÍ†µ¡.
-Fsquid:S1148)"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ8ø·ô´¡.
-qsquid:S2975#"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ÿê¯Û8ø·ô´¡.
 isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‘½Ñ8¶‚‡µ¡.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(é¥ùøþÿÿÿÿ8íí‡µ¡.
+Fsquid:S1148)"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ8ø·ô´¡.

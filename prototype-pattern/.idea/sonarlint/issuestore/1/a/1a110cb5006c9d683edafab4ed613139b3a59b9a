@@ -1,9 +1,9 @@
 
-Fsquid:S1148C"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ8ş±Ö·¡.
-gsquid:HiddenFieldCheck-"9Rename "books" which hides the field declared at line 17.(èï·Ÿøÿÿÿÿ8õËÿ¶¡.
-osquid:UselessImportCheck"DRemove this unused import 'org.vishnu.prototype.ConcretePrototypeA'.(ğÄÜ¸8°’×·¡.
-ksquid:S11826"HUse super.clone() to create and seed the cloned instance to be returned.(ƒŞâÎûÿÿÿÿ8§ü··¡.
-gsquid:HiddenFieldCheckP"9Rename "books" which hides the field declared at line 17.(èï·Ÿøÿÿÿÿ8ÑÔ·¡.
 vsquid:S29756"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ƒŞâÎûÿÿÿÿ8‘‚¶¡.
-\squid:UnusedPrivateMethod>"0Remove this unused private "shallowCopy" method.(Ó¦ÑÇ8€Û·¡.
+Fsquid:S1148C"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ8ş±Ö·¡.
+ksquid:S11826"HUse super.clone() to create and seed the cloned instance to be returned.(ƒŞâÎûÿÿÿÿ8§ü··¡.
 Fsquid:S1148X"#Use a logger to log this exception.(îÙ÷Çùÿÿÿÿ8Øİş±¢.
+osquid:UselessImportCheck"DRemove this unused import 'org.vishnu.prototype.ConcretePrototypeA'.(ğÄÜ¸8°’×·¡.
+\squid:UnusedPrivateMethod>"0Remove this unused private "shallowCopy" method.(Ó¦ÑÇ8€Û·¡.
+gsquid:HiddenFieldCheck-"9Rename "books" which hides the field declared at line 17.(èï·Ÿøÿÿÿÿ8õËÿ¶¡.
+gsquid:HiddenFieldCheckP"9Rename "books" which hides the field declared at line 17.(èï·Ÿøÿÿÿÿ8ÑÔ·¡.

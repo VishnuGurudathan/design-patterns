@@ -1,6 +1,6 @@
 
-7squid:S2225"Return a non null object.(¥¹ï8°ºµ¡.
-fsquid:S1182
-"HUse super.clone() to create and seed the cloned instance to be returned.(Ÿê¯Û8Ç¹µ¡.
 qsquid:S2975
 "SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ÿê¯Û8Ç¹µ¡.
+fsquid:S1182
+"HUse super.clone() to create and seed the cloned instance to be returned.(Ÿê¯Û8Ç¹µ¡.
+7squid:S2225"Return a non null object.(¥¹ï8°ºµ¡.

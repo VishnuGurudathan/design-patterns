@@ -1,11 +1,11 @@
 
-[
-squid:S106"9Replace this use of System.out or System.err by a logger.(ñÔÂ¹øÿÿÿÿ8³àÔ¶¡.
+osquid:UselessImportCheck"DRemove this unused import 'org.vishnu.prototype.ConcretePrototypeA'.(ğÄÜ¸8É›Ö¶¡.
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(º†”èıÿÿÿÿ8‘éŒ·¡.
-osquid:UselessImportCheck"DRemove this unused import 'org.vishnu.prototype.ConcretePrototypeA'.(ğÄÜ¸8É›Ö¶¡.
+msquid:UselessImportCheck"CRemove this unused import 'org.vishnu.prototype.PrototypeRegistry'.(Ú’½-8¡æÒ¶¡.
 [
 squid:S106"9Replace this use of System.out or System.err by a logger.(º†”èıÿÿÿÿ8¹¶¡.
 [
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñÔÂ¹øÿÿÿÿ8³àÔ¶¡.
+[
 squid:S106"9Replace this use of System.out or System.err by a logger.(ñÔÂ¹øÿÿÿÿ8‘éŒ·¡.
-msquid:UselessImportCheck"CRemove this unused import 'org.vishnu.prototype.PrototypeRegistry'.(Ú’½-8¡æÒ¶¡.
