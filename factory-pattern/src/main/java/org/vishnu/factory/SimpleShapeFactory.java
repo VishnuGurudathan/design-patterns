@@ -1,5 +1,7 @@
-package org.vishnu;
+package org.vishnu.factory;
 
+import org.vishnu.ShapeType;
+import org.vishnu.factory.ShapeFactory;
 import org.vishnu.products.Circle;
 import org.vishnu.products.Shape;
 import org.vishnu.products.Square;

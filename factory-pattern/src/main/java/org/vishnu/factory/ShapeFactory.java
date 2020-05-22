@@ -1,5 +1,6 @@
-package org.vishnu;
+package org.vishnu.factory;
 
+import org.vishnu.ShapeType;
 import org.vishnu.products.Shape;
 
 /**

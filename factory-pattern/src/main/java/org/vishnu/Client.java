@@ -1,7 +1,9 @@
 package org.vishnu;
 
+import org.vishnu.factory.ShapeFactory;
+import org.vishnu.products.Shape;
+
 import java.io.FileInputStream;
-import java.io.FileReader;
 import java.lang.reflect.Constructor;
 import java.util.Properties;
 

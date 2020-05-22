@@ -1,0 +1,6 @@
+
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¢©Ž¡üÿÿÿÿ
+:squid:S1148R"#Use a logger to log this exception.(¾›ã…
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Îí¾Šýÿÿÿÿ
+bsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ðˆ‰Ä
+bsquid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(›¾›‡

@@ -1,4 +1,4 @@
-package org.vishnu;
+package org.vishnu.products;
 
 /**
  * @author vishnu.g
