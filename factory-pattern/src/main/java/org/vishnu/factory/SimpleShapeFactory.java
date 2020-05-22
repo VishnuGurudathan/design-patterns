@@ -1,5 +1,9 @@
 package org.vishnu;
 
+import org.vishnu.products.Circle;
+import org.vishnu.products.Shape;
+import org.vishnu.products.Square;
+
 /**
  * @author vishnu.g
  * @project org.vishnu : factory-pattern

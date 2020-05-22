@@ -1,5 +1,7 @@
 package org.vishnu;
 
+import org.vishnu.products.Shape;
+
 /**
  * @author vishnu.g
  * @project org.vishnu : factory-pattern
