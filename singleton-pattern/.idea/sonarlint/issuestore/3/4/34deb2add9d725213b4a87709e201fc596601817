@@ -1,0 +1,9 @@
+
+gsquid:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¸ž‰è
+fsquid:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÏÆµÅ
+:squid:S1148"#Use a logger to log this exception.(Ç’Çê
+:squid:S1148"#Use a logger to log this exception.(Ç’Çê
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë•Üö
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(½ïÓŸúÿÿÿÿ

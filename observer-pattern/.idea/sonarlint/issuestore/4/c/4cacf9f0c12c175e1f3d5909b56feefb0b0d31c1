@@ -1,0 +1,8 @@
+
+Isquid:S1602/",Remove useless curly braces around statement(Êÿª)8ž©£¾¤.
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆÞá†8ö·¾¤.
+Isquid:S1612/",Replace this lambda with a method reference.(Êÿª)8ž©£¾¤.
+ˆsquid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(³ëÛ±ýÿÿÿÿ8·õž¾¤.
+Hsquid:S1068"*Remove this unused "change" private field.(âé•ü8‹Ý¨¾¤.
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(Æ…ôŽÿÿÿÿÿ8éíœ¾¤.
