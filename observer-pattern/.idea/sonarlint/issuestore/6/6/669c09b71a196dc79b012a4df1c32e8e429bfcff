@@ -1,0 +1,5 @@
+
+dsquid:CallToDeprecatedMethod"0Remove this use of "Observer"; it is deprecated.(ËÏ’×üÿÿÿÿ8Ş¼Ô¤.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ëøïşÿÿÿÿ8„‚Ô¤.
+fsquid:CallToDeprecatedMethod"2Remove this use of "Observable"; it is deprecated.(‹›Àüÿÿÿÿ8Ş¼Ô¤.
