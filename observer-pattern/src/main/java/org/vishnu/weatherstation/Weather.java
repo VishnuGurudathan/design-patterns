@@ -5,12 +5,13 @@ package org.vishnu.weatherstation;
  * @project org.vishnu.observer : observer-pattern
  * @created 24/May/2020
  */
-public class Weather {
+public class Weather extends WeatherStation {
 
     private int temperature;
 
     public Weather(int temperature) {
         this.temperature = temperature;
+        notifyObservers();
     }
 
     public int getTemperature() {
@@ -19,6 +20,7 @@ public class Weather {
 
     public void setTemperature(int temperature) {
         this.temperature = temperature;
+        notifyObservers();
     }
 
     @Override

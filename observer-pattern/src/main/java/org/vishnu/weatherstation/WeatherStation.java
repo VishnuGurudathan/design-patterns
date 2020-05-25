@@ -10,28 +10,7 @@ import java.util.Vector;
 public class WeatherStation implements Observable {
     private Vector<Observer> observers = new Vector<>();
     private boolean change = false;
-    //private Weather weather;
-    private  int temperature;
 
-    public void setTemperature(int temperature) {
-        this.temperature = temperature;
-        notifyObservers();
-    }
-
-    public WeatherStation() {
-        observers = new Vector<>();
-    }
-
-    public WeatherStation(int temperature) {
-        this.temperature = temperature;
-        notifyObservers();
-    }
-
-    public WeatherStation(int temperature, Observer observer) {
-        this.temperature = temperature;
-        register(observer);
-        notifyObservers();
-    }
     @Override
     public void register(Observer o) {
         observers.add(o);
@@ -49,8 +28,16 @@ public class WeatherStation implements Observable {
         });
     }
 
-    @Override
-    public void getChange() {
-        System.out.println("Temperature : " + temperature );
+    public boolean hasChange() {
+        return change;
+    }
+
+    public void setChange() {
+        this.change = true;
+    }
+
+    //java.util.Observable
+    public void clearChange() {
+        this.change = false;
     }
 }

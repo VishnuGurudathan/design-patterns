@@ -10,7 +10,14 @@ import java.util.List;
  */
 public class Stock implements Observable {
 
-    List<Observer> observers = new ArrayList<>();
+    List<Observer> observers;
+    private String stockName;
+    private int stockPrice;
+
+    public Stock(String stockName) {
+        this.stockName = stockName;
+        this.observers = new ArrayList<>();
+    }
 
     @Override
     public void register(Observer observer) {
@@ -25,7 +32,20 @@ public class Stock implements Observable {
     @Override
     public void notifyObservers() {
         observers.stream().forEach( o-> {
-            o.update();
+            o.update(this);
         });
+    }
+
+    public String getStockName() {
+        return stockName;
+    }
+
+    public int getStockPrice() {
+        return stockPrice;
+    }
+
+    public void setStockPrice(int stockPrice) {
+        this.stockPrice = stockPrice;
+        notifyObservers();
     }
 }

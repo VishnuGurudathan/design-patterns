@@ -6,5 +6,5 @@ package org.vishnu.stock;
  * @created 25/May/2020
  */
 public interface Observer {
-    void update();
+    void update(Stock stock);
 }
