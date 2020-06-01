@@ -1,4 +1,8 @@
 
-Isquid:S1612",Replace this lambda with a method reference.(Êÿª)8ž©£¾¤.
-ˆsquid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(³ëÛ±ýÿÿÿÿ8·õž¾¤.
-Isquid:S1602",Remove useless curly braces around statement(Êÿª)8ž©£¾¤.
+H
+java:S1602,",Remove useless curly braces around statement(Êÿª)8É¥äÖ¤.
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(Û½’µ8Þ“Æ×¤.
+H
+java:S1612,",Replace this lambda with a method reference.(Êÿª)8É¥äÖ¤.
+‡
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(³ëÛ±ýÿÿÿÿ8É¥äÖ¤.
