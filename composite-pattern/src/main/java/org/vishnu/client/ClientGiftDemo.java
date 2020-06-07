@@ -21,8 +21,7 @@ public class ClientGiftDemo {
         subGiftBox.add(giftBarbieDoll);
 
         giftBox.add(subGiftBox);
-        
+
         giftBox.unWrap();
     }
-
 }
