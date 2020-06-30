@@ -220,5 +220,6 @@ buildNumber.properties
 # http://www.sonarlint.org/commandline/
 # SonarLint working directories, configuration files (including credentials)
 .sonarlint/
+.idea/sonarlint
 
 # End of https://www.gitignore.io/api/java,sonar,maven,eclipse,java-web,intellij,code-java,sonarqube
