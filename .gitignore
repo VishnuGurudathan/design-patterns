@@ -209,6 +209,7 @@ buildNumber.properties
 #Sonar generated dir
 /.sonar/
 
+
 ### SonarQube ###
 # SonarQube ignore files.
 #

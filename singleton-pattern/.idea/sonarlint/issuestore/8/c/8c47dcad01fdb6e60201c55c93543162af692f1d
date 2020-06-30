@@ -1,7 +1,8 @@
 
-lsquid:S2259"UA "NullPointerException" could be thrown; "eagerReflectionInstance" is nullable here.(Ãœ‹¥
-csquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(×¡ûÊÿÿÿÿÿ
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(¸ë¹µùÿÿÿÿ
-O
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ãœ‹¥
+Q
+java:S3740"/Provide the parametrized type for this generic.(¶ş™Çşÿÿÿÿ8ıæ•¯.
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(×¡ûÊÿÿÿÿÿ8ıæ•¯.
+r
+java:S2259"UA "NullPointerException" could be thrown; "eagerReflectionInstance" is nullable here.(Ãœ‹¥8ıæ•¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸ë¹µùÿÿÿÿ8ıæ•¯.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ãœ‹¥8ıæ•¯.
