@@ -14,9 +14,10 @@ public class DemoClient {
     public static void main(String[] args) {
         LightBulb bulb = new LightBulb();
         bulb.displayState();
-        bulb.setCurrentState(new OnState(bulb));
+        bulb.toggle();
         bulb.displayState();
-        bulb.setCurrentState(new OffState(bulb));
+        bulb.toggle();
         bulb.displayState();
+
     }
 }
